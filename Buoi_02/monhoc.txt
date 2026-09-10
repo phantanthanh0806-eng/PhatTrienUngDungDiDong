@@ -1,0 +1,5 @@
+LT#IT01#Co so du lieu#3#7.0#8.5
+TH#IT02#Thuc hanh mang#2#8.0#7.5#9.0
+DA#IT03#Do an co so#4#8.5#9.0
+LT#IT04#Tri tue nhan tao#3#6.5#8.0
+TH#IT05#Thuc hanh lap trinh#2#9.0#9.0#8.5
